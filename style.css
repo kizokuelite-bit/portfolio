@@ -1,0 +1,114 @@
+.head{
+    text-align: center;
+    font-size: 40px;
+    transition: 0.3s ease;
+}
+.head:hover{
+    scale: 1.1;
+}
+body{
+    background:#0F172A;
+    color:#F8FAFC;
+}
+.welcome{
+    text-align: center;
+    font-size: 20px;
+    transition: 0.3s ease;
+}
+.welcome:hover{
+    scale: 1.1;
+}
+.Hello{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    transition: 0.3s ease;
+    border-radius: 15px;
+}
+.Hello:hover{
+    scale: 1.1;
+}
+.link{
+    text-align: center;
+    color: aqua;
+    font-size: 20px;
+    transition: 0.3s ease;
+}
+.link:hover{
+    scale: 1.1;
+}
+.Social{
+    text-align: center;
+    font-size: 20px;
+    color: grey;
+    transition: 0.3s ease;
+    border-radius: 15px;
+}
+.Social:hover{
+    scale: 1.1;
+}
+.education{
+    background-color:  (#FFFFFF);
+}
+.real{
+    text-align: center;
+    text-decoration-line: underline;
+    color: #4D4D4D;
+    font-size: 40px;
+}
+.v{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30px;
+    transition: 0.5s ease;
+}
+.v{
+    scale: 1.1;
+}
+.k{
+    border-radius: 15px;
+}
+.intro{
+    font-size: 20px;
+}
+.table{
+    font-size: 20px;
+
+}
+.exp{
+    text-align: center;
+    font-size: 40px;
+}
+.xp{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    transition: 0.3s ease;
+    border-radius: 15px;
+}
+.xp:hover{
+    scale: 1.1
+}
+.p1{
+    text-align: center;
+    font-size: 20px;
+}
+.projects{
+    text-align: center;
+    font-size: 40px;
+    color: beige;
+}
+.img-pro{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    transition: 0.3s ease;
+}
+.img-pro:hover{
+    scale: 1.1;
+}
+.P2{
+    text-align: center;
+    font-size: 20px;
+}
